@@ -17,7 +17,3 @@ Here are some ideas to get you started:
 # Hi, I'm Damodharan👋
 
 I'm a passionate **Full Stack Developer**, working with **Java**, **Python**, and **Web Technologies** to build innovative solutions.
-
-## My GitHub Contribution Graph
-
-![Your Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Damodharan28&theme=dark)
