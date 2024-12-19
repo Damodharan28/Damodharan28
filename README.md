@@ -19,12 +19,12 @@ I'm a passionate **Full Stack Developer**, working with **Java**, **Python**, an
 
 # I Code in:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Java_programming_language_logo.svg" width="40" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_JavaScript.png" width="40" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Tailwind_CSS_Logo.svg" width="40" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/HTML5_logo_and_wordmark.svg" width="40" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="40" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" width="40" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Netlify_Logo.svg" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/python.png" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/react-native.png" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/tailwind-css.png" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/html-5.png" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/django.png" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/netlify.png" width="40" height="40"/>
