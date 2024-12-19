@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Damodharan👋
+
+I'm a passionate **Full Stack Developer**, working with **Java**, **Python**, and **Web Technologies** to build innovative solutions.
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)
+
+## My GitHub Contribution Graph
+
+![Your Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
