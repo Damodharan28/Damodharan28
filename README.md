@@ -23,8 +23,9 @@ I'm a passionate **Full Stack Developer**, working with **Java**, **Python**, an
 <img src="https://img.icons8.com/color/48/000000/python.png" width="40" height="40"/> 
 <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40"/> 
 <img src="https://img.icons8.com/color/48/000000/react-native.png" width="40" height="40"/> 
-<img src="https://img.icons8.com/color/48/000000/tailwind-css.png" width="40" height="40"/> 
-<img src="https://img.icons8.com/color/48/000000/html-5.png" width="40" height="40"/> 
-<img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40"/> 
+<img src="https://img.icons8.com/ios-filled/50/000000/tailwindcss.png" width="40" height="40"/> 
+<img src="https://img.icons8.com/ios-filled/50/000000/html-5.png" width="40" height="40"/> 
+<img src="https://img.icons8.com/ios-filled/50/000000/css3.png" width="40" height="40"/> 
 <img src="https://img.icons8.com/color/48/000000/django.png" width="40" height="40"/> 
-<img src="https://img.icons8.com/color/48/000000/netlify.png" width="40" height="40"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/netlify.png" width="40" height="40"/>
+
