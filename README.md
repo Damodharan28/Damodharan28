@@ -9,8 +9,7 @@ I'm a **Final Year Computer Science Engineering** student with a passion for sol
 - **Hosting**: 
   ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=white) 
   ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-  ### **Databases**
-- ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)  
+-**Databases**: ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)  
 
 
 ### 💡 Currently Learning:
