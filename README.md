@@ -19,4 +19,4 @@ I'm a **Final Year Computer Science Engineering** student with a passion for sol
 ### 🏆 LeetCode Stats:
 I love solving coding challenges! Check out my progress on LeetCode:
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/<DamodharanM>?theme=dark&font=baloo&extension=null)
+![LeetCode Stats](https://leetcard.jacoblin.cool/DamodharanM?theme=dark&font=baloo&extension=null)
